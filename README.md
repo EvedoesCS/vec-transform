@@ -1,2 +1,2 @@
 # vec-transform
-A Simple Program to illustrate vector transformations in Python
+A Program to simulate a cube spinning in space.
